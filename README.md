@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlfredoGrcaa. Actually pursuing a BS at Tecnológico de Monterrey
-- 👀 I’m interested in Data Science and Data Analytics, buuildings models and make predictios.
+- 👀 I’m interested in Data Science and Data Analytics, buildings models and make predictios.
 - 🌱 I’m currently studying a Data Science and Mathematics Engineering.
 - 💞️ I’m looking to collaborate on a tech company to build data science & analytics related projects.
 - 📫 You can reach me via:
